@@ -7,9 +7,9 @@ Sistema para Venta de Computadoras (Base de Datos)
 Diseño conceptual, lógico y físico de la base de datos para un sistema de venta de computadoras. Incluye DER, modelo relacional, diccionario de datos, scripts DDL/DML, procedimientos almacenados y documentación de rutas/endpoints.
 
 ## Datos de identificación
-- Nombre completo: [Tu Nombre Completo]
-- Carrera: [Tu Carrera]
-- Asignatura: Base de Datos
+- Nombre completo: Bendezu Lagos Jack Joshua
+- Carrera: Ingenieria de Sistemas e Informatica
+- Asignatura: Ingenieria Web
 
 ## Estructura del Repositorio
 - /docs — Diseño (DER, modelo relacional, diccionario de datos)
@@ -21,6 +21,11 @@ Diseño conceptual, lógico y físico de la base de datos para un sistema de ven
 2. Ejecutar `sql/ddl.sql` para crear la base de datos y tablas.
 3. Ejecutar `sql/dml.sql` para insertar datos de prueba.
 4. Ejecutar `sql/procedures.sql` para crear procedimientos almacenados.
+## Ejecución o despliegue del script de la base de datos (MongoDB)
+1. Instalar MongoDB.
+2. Crear base de datos `venta_computadoras`.
+3. Ejecutar `mongo/seed.js` o comandos en `mongo/commands.js` para insertar datos.
+4. (Opcional) Ejecutar API Node.js + Express + Mongoose.
 
 ## Diseño de la Base de Datos
 Ver carpeta /docs: DER y modelo relacional en `docs/modelo_relacional.md`, diccionario en `docs/diccionario.md`.
