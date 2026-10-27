@@ -1,4 +1,4 @@
-Estudiante: [Tu Nombre Completo]
+Estudiante: Bendezu Lagos Jack Joshua
 Fecha: 27/10/2026
 Proyecto: Base de Datos - Venta de Computadoras
-URL del Repositorio GitHub: https://github.com/tu-usuario/venta-computadoras-db
+URL del Repositorio GitHub: https://github.com/JoshuaJBLX/-Sistema-para-Venta-de-Computadoras.git
